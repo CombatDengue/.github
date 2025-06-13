@@ -1,4 +1,4 @@
-[!Logo](/home/anoop/Desktop/logo.svg)
+[!Logo]([/home/anoop/Desktop/logo.svg](https://github.com/CombatDengue/.github/blob/main/logo.svg))
 ## Combat Dengue
 COMBAT is an ambitious initiative at the forefront of dengue research and pandemic preparedness, pioneering innovative antiviral strategies to alleviate the burden of dengue infection while deepening our understanding of its complex pathogenesis through cutting-edge multi-modal technologies.
 
