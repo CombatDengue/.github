@@ -7,19 +7,19 @@ The project stands at a pivotal crossroads in interdisciplinary research, mergin
 The COMBAT consortium brings together a diverse network of partners from seven countries, fostering international collaboration and expertise.
 
 + Karolinska Institute (KI), Sweden
-Stichting Amsterdam UMC (UMC), The Netherlands
-University of Oslo (UiO), Norway
-Justus Liebig University (JLU), Germany
-Lund University (LU), Sweden
-BioBoxGT (BBG), Guatemala
-React4life Spa (R4L), Italy
-Olink Proteomics AB (ONK), Sweden
-Chip NanoImaging AS (CNI-AS), Norway
-University of Missouri (UM), USA (Associated Partner)
-National Institute of Biomedical Genomics (NIBMG), India (Indian Coordinator/Associated Partners)*
-Regional Centre for Biotechnology (RCB), India (Associated Partners)*
-Manipal Academy of Higher Education (MAHE), India (Associated Partners)*
-Devki Devi Foundation Society (DDF), India (Associated Partners)*
-Artemis Medicare Services Ltd. (AMS), India (Associated Partners)*
++ Stichting Amsterdam UMC (UMC), The Netherlands
++ University of Oslo (UiO), Norway
++ Justus Liebig University (JLU), Germany
++ Lund University (LU), Sweden
++ BioBoxGT (BBG), Guatemala
++ React4life Spa (R4L), Italy
++ Olink Proteomics AB (ONK), Sweden
++ Chip NanoImaging AS (CNI-AS), Norway
++ University of Missouri (UM), USA (Associated Partner)
++ National Institute of Biomedical Genomics (NIBMG), India (Indian Coordinator/Associated Partners)*
++ Regional Centre for Biotechnology (RCB), India (Associated Partners)*
++ Manipal Academy of Higher Education (MAHE), India (Associated Partners)*
++ Devki Devi Foundation Society (DDF), India (Associated Partners)*
++ Artemis Medicare Services Ltd. (AMS), India (Associated Partners)*
 
 *Co-funded by the Department of Biotechnology, Govt. of India under India-EU cooperation on research & innovation (R&I)
