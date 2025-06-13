@@ -1,4 +1,4 @@
-<img src="https://github.com/CombatDengue/.github/raw/main/profile/screen.png" alt="Logo" width="1000", height="500">
+<img src="https://github.com/CombatDengue/.github/raw/main/profile/screen.png" alt="Logo" width="1000" height="500">
 
 ## Combat Dengue
 COMBAT is an ambitious initiative at the forefront of dengue research and pandemic preparedness, pioneering innovative antiviral strategies to alleviate the burden of dengue infection while deepening our understanding of its complex pathogenesis through cutting-edge multi-modal technologies.
