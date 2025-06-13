@@ -1,12 +1,25 @@
-## Hi there 👋
+## Combat Dengue
+COMBAT is an ambitious initiative at the forefront of dengue research and pandemic preparedness, pioneering innovative antiviral strategies to alleviate the burden of dengue infection while deepening our understanding of its complex pathogenesis through cutting-edge multi-modal technologies.
 
-<!--
+The project stands at a pivotal crossroads in interdisciplinary research, merging the domains of biological science, physics, nanotechnology, computer science, and (bio)engineering. By crafting policy frameworks to address dengue threats in Europe and establishing a state-of-the-art interdisciplinary hub for scalable and affordable pandemic preparedness, COMBAT aims to revolutionize global health responses and equip communities to face emerging health crises with resilience and efficiency.
 
-**Here are some ideas to get you started:**
+## The COMBAT Consortium
+The COMBAT consortium brings together a diverse network of partners from seven countries, fostering international collaboration and expertise.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
++ Karolinska Institute (KI), Sweden
+Stichting Amsterdam UMC (UMC), The Netherlands
+University of Oslo (UiO), Norway
+Justus Liebig University (JLU), Germany
+Lund University (LU), Sweden
+BioBoxGT (BBG), Guatemala
+React4life Spa (R4L), Italy
+Olink Proteomics AB (ONK), Sweden
+Chip NanoImaging AS (CNI-AS), Norway
+University of Missouri (UM), USA (Associated Partner)
+National Institute of Biomedical Genomics (NIBMG), India (Indian Coordinator/Associated Partners)*
+Regional Centre for Biotechnology (RCB), India (Associated Partners)*
+Manipal Academy of Higher Education (MAHE), India (Associated Partners)*
+Devki Devi Foundation Society (DDF), India (Associated Partners)*
+Artemis Medicare Services Ltd. (AMS), India (Associated Partners)*
+
+*Co-funded by the Department of Biotechnology, Govt. of India under India-EU cooperation on research & innovation (R&I)
